@@ -1,9 +1,9 @@
 # 지뢰찾기 (minesweeper)
 
-[지뢰찾기체험해보기](https://plnkr.co/edit/3C5rfCntAPpm29bOdMFe?p=preview)
+[지뢰찾기 체험해보기](https://plnkr.co/edit/3C5rfCntAPpm29bOdMFe?p=preview)
 
 ### 목적
-* Toy
+
 
 
 ## 사용된 기술
