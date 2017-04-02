@@ -1,6 +1,9 @@
 # 지뢰찾기 (minesweeper)
+
+[지롸찾기체험해보기](https://plnkr.co/edit/3C5rfCntAPpm29bOdMFe?p=preview)
+
 ### 목적
-* 
+* Toy
 
 
 ## 사용된 기술
@@ -24,4 +27,4 @@
 ```
 메모장,이클립스 등
 ```
-[지롸찾기체험해보기](https://plnkr.co/edit/3C5rfCntAPpm29bOdMFe?p=preview)
+
